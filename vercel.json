@@ -5,6 +5,8 @@
   ],
   "rewrites": [
     { "source": "/finbrain", "destination": "https://finbrain-frontend-sigma.vercel.app/" },
+    { "source": "/finbrain/", "destination": "https://finbrain-frontend-sigma.vercel.app/" },
+    { "source": "/finbrain/main", "destination": "https://finbrain-frontend-sigma.vercel.app/finbrain/main" },
     { "source": "/finbrain/:path*", "destination": "https://finbrain-frontend-sigma.vercel.app/:path*" },
     { "source": "/agent/:path*", "destination": "https://finbrain-agent.vercel.app/:path*" },
     { "source": "/websearch/:path*", "destination": "https://web-search-agent-rho.vercel.app/:path*" }
