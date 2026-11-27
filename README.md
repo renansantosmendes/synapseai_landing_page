@@ -1,5 +1,7 @@
 # SynapseAI Solutions: Landing Page
 
+![Vercel](https://img.shields.io/badge/Vercel-deploy-000000?logo=vercel&logoColor=white)
+
 Static landing page for **SynapseAI Solutions**, a company that builds
 domain-specific generative AI products for Finance, Education and Healthcare.
 The page presents the five products, the regulated sectors served, the
